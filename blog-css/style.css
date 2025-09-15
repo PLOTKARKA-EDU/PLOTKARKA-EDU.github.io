@@ -19,3 +19,14 @@
 .post-body tr:nth-child(even) {
   background-color: #fafafa;
 }
+.post-body table.zadanie {
+border-collapse: collapse;
+width: 100%;
+}
+.post-body table.zadanie td, .post-body table.zadanie th {
+padding: 5px 5px;
+border: 1px solid;
+}
+.post-body table.zadanie th {
+width: 30px;
+}
